@@ -1,0 +1,7 @@
+0  RNE Clásica (rn2)	1  BBC Radio 3 (bbc3)	2  Code Radio (co)
+3  Catalunya Radio (cr)	4  Euskadi Irratia (ei)	5  Radio Euskadi (re)
+6  Venice Classic (vc)	7  Swiss Classic	8  Classic Bergem
+9  BBC WS (bbc)		10 France Inter (fr)	11 BBC4 (bbc4)
+12 FM 4			13 DeutschlandFunk Nova	14 Bayern 1
+15 EgoFM Riff		16 EgoFM		17 Byte FM
+18 Chula Radio

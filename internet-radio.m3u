@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:9999,RNE Radio Clásica
+http://radioclasica.rtveradio.cires21.com/radioclasica.mp3
+
+#EXTINF:0,'BBC Radio 3'
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p?s=1562723707&e=1562738107&h=4485fd0e4b984082d8001a961e3aed6a
+
+#EXTINF: Code Radio
+https://coderadio-admin.freecodecamp.org/radio/8010/radio.mp3
+
+#EXTINF:Catalunya Radio
+http://catradio.ccma.audioemotion.stream.flumotion.com/ccma/catradio.mp3
+
+#EXTINF:Euskadi Irratia
+http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3
+
+#EXTINF:Radio Euskadi
+http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3
+
+#EXTINF:Venice Classic
+http://109.123.116.202:8020/stream
+
+#EXTINF:Swiss Classic
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:Classic Bergem
+http://rcb.zapto.org:8000/mp3
+
+#EXTINF:BBC World Service
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+
+#EXTINF:France Inter
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
+
+#EXTINF:BBC 4
+http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/http-icy-mp3-a-stream/proto/http/vpid/bbc_radio_fourlw
+
+#EXTINF:FM 4
+http://mp3stream1.apasf.apa.at:8000
+
+#EXTINF:DeutschlandFunk Nova
+http://st03.dlf.de/dlf/03/128/mp3/stream.mp3
+
+#EXTINF:Bayern 1 Niederbayern / Oberpfalz
+http://br-br1-nbopf.cast.addradio.de/br/br1/nbopf/mp3/56/stream.mp3
+
+#EXTINF:EgoFM Riff
+https://egofm-riff.cast.addradio.de/egofm/riff/mp3/high/stream.mp3
+
+#EXTINF:EgoFM
+https://egofm-live.cast.addradio.de/egofm/live/mp3/high/stream.mp3
+
+#EXTINF:Byte FM
+http://bytefm.cast.addradio.de/bytefm/main/mid/stream
+
+#EXTINF:Chulalongkorn Radio
+http://161.200.134.32:1935/live/liveradio128/playlist.m3u8
