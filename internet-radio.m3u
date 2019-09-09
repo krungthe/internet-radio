@@ -56,3 +56,6 @@ http://bytefm.cast.addradio.de/bytefm/main/mid/stream
 
 #EXTINF:Chulalongkorn Radio
 http://161.200.134.32:1935/live/liveradio128/playlist.m3u8
+
+#EXTINF:Catalunya Musica
+https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:catmusica/playlist.m3u8

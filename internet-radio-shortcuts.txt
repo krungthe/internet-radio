@@ -4,4 +4,4 @@
 9  BBC WS (bbc)		10 France Inter (fr)	11 BBC4 (bbc4)
 12 FM 4			13 DeutschlandFunk Nova	14 Bayern 1
 15 EgoFM Riff		16 EgoFM		17 Byte FM
-18 Chula Radio
+18 Chula Radio		19 Catalunya Musica
