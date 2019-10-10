@@ -4,9 +4,10 @@
 9  BBC WS (bbc)		10 France Inter (fr)	11 BBC4 (bbc4)
 12 FM 4			13 DeutschlandFunk Nova	14 Bayern 1
 15 EgoFM Riff		16 EgoFM		17 Byte FM
-18 Chula Radio		19 Catalunya Musica	20 Fr Musique Easy
-21 Fr Musique Plus	22 Fr Musique Concert	23 Fr Musique Jazz
-24 Fr Musique Contem	25 Fr Musique Monde	26 Fr Musique B.O.
-27 FIP			28 FIP Rock		29 FIP Jazz
-30 FIP Groove		31 FIP Monde		32 FIP Nouveautés
-33 FIP Reggae		34 FIP Electro
+18 Chula Radio		19 Catalunya Musica	20 France Musique
+21 Fr Musique Easy	22 Fr Musique Plus	23 Fr Musique Concert
+24 Fr Musique Jazz	25 Fr Musique Contem	26 Fr Musique Monde
+27 Fr Musique B.O.	28 FIP			29 FIP Rock
+30 FIP Jazz		31 FIP Groove		32 FIP Monde
+33 FIP Nouveautés	34 FIP Reggae		35 FIP Electro
+36 France Inter

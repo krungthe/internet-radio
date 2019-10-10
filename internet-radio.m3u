@@ -31,7 +31,7 @@ http://rcb.zapto.org:8000/mp3
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 
 #EXTINF:France Inter
-http://direct.franceinter.fr/live/franceinter-midfi.mp3
+https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8
 
 #EXTINF:BBC 4
 http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/http-icy-mp3-a-stream/proto/http/vpid/bbc_radio_fourlw
@@ -60,26 +60,29 @@ http://161.200.134.32:1935/live/liveradio128/playlist.m3u8
 #EXTINF:Catalunya Musica
 https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:catmusica/playlist.m3u8
 
+#EXTINF:Fr Musique 
+https://stream.radiofrance.fr/francemusique/francemusique_hifi.m3u8
+
 #EXTINF:Fr Musique Easy
-https://stream.radiofrance.fr/francemusiqueeasyclassique/francemusiqueeasyclassique_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/francemusiqueeasyclassique/francemusiqueeasyclassique_hifi.m3u8
 
 #EXTINF:Fr Musique Plus
-https://stream.radiofrance.fr/francemusiqueclassiqueplus/francemusiqueclassiqueplus_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/francemusiqueclassiqueplus/francemusiqueclassiqueplus_hifi.m3u8
 
 #EXTINF:Fr Musique Concert
-https://stream.radiofrance.fr/francemusiqueconcertsradiofrance/francemusiqueconcertsradiofrance_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/francemusiqueconcertsradiofrance/francemusiqueconcertsradiofrance_hifi.m3u8
 
 #EXTINF:Fr Musique Jazz
-https://stream.radiofrance.fr/francemusiquelajazz/francemusiquelajazz_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/francemusiquelajazz/francemusiquelajazz_hifi.m3u8
 
 #EXTINF:Fr Musique Contemporaine
-https://stream.radiofrance.fr/francemusiquelacontemporaine/francemusiquelacontemporaine_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/francemusiquelacontemporaine/francemusiquelacontemporaine_hifi.m3u8
 
 #EXTINF:Fr Musique Monde
-https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde_hifi.m3u8
 
 #EXTINF:Fr Musique B.O.
-https://stream.radiofrance.fr/francemusiquelabo/francemusiquelabo_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/francemusiquelabo/francemusiquelabo_hifi.m3u8
 
 #EXTINF:FIP 
 https://stream.radiofrance.fr/fip/fip_hifi.m3u8
@@ -104,3 +107,7 @@ https://stream.radiofrance.fr/fipreggae/fipreggae_hifi.m3u8
 
 #EXTINF:FIP Electro
 https://stream.radiofrance.fr/fipelectro/fipelectro_hifi.m3u8
+
+#EXTINF:France Inter
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
+
