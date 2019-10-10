@@ -61,22 +61,22 @@ http://161.200.134.32:1935/live/liveradio128/playlist.m3u8
 https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:catmusica/playlist.m3u8
 
 #EXTINF:Fr Musique Easy
-https://chai5she.cdn.dvmr.fr/francemusiqueeasyclassique-hifi.aac?ID=radiofrance
+https://stream.radiofrance.fr/francemusiqueeasyclassique/francemusiqueeasyclassique_hifi.m3u8?id=radiofrance
 
 #EXTINF:Fr Musique Plus
-https://chai5she.cdn.dvmr.fr/francemusiqueclassiqueplus-hifi.aac?ID=radiofrance
+https://stream.radiofrance.fr/francemusiqueclassiqueplus/francemusiqueclassiqueplus_hifi.m3u8?id=radiofrance
 
 #EXTINF:Fr Musique Concert
-https://chai5she.cdn.dvmr.fr/francemusiqueconcertsradiofrance-hifi.aac?ID=radiofrance
+https://stream.radiofrance.fr/francemusiqueconcertsradiofrance/francemusiqueconcertsradiofrance_hifi.m3u8?id=radiofrance
 
 #EXTINF:Fr Musique Jazz
-https://chai5she.cdn.dvmr.fr/francemusiquelajazz-hifi.aac?ID=radiofrance
+https://stream.radiofrance.fr/francemusiquelajazz/francemusiquelajazz_hifi.m3u8?id=radiofrance
 
 #EXTINF:Fr Musique Contemporaine
-https://chai5she.cdn.dvmr.fr/francemusiquelacontemporaine-hifi.aac?ID=radiofrance
+https://stream.radiofrance.fr/francemusiquelacontemporaine/francemusiquelacontemporaine_hifi.m3u8?id=radiofrance
 
 #EXTINF:Fr Musique Monde
-https://chai5she.cdn.dvmr.fr/francemusiqueocoramonde-hifi.aac?ID=radiofrance
+https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde_hifi.m3u8?id=radiofrance
 
 #EXTINF:Fr Musique B.O.
-https://chai5she.cdn.dvmr.fr/francemusiquelevenementielle-hifi.aac?ID=radiofrance
+https://stream.radiofrance.fr/francemusiquelabo/francemusiquelabo_hifi.m3u8?id=radiofrance
