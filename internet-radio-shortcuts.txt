@@ -10,4 +10,4 @@
 27 Fr Musique B.O.	28 FIP			29 FIP Rock
 30 FIP Jazz		31 FIP Groove		32 FIP Monde
 33 FIP Nouveautés	34 FIP Reggae		35 FIP Electro
-36 France Inter
+36 France Inter		37 Live Ireland
