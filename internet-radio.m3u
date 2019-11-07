@@ -58,7 +58,7 @@ http://bytefm.cast.addradio.de/bytefm/main/mid/stream
 http://161.200.134.32:1935/live/liveradio128/playlist.m3u8
 
 #EXTINF:Catalunya Musica
-https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:catmusica/playlist.m3u8
+https://directes-radio-int.ccma.cat/int/mp4:catmusica/chunklist.m3u8
 
 #EXTINF:Fr Musique 
 https://stream.radiofrance.fr/francemusique/francemusique_hifi.m3u8
@@ -113,3 +113,6 @@ http://direct.franceinter.fr/live/franceinter-midfi.mp3
 
 #EXTINF:Live Ireland
 http://192.111.140.11:8058/
+
+#EXTINF:iCat
+https://directes-radio-int.ccma.cat/int/mp4:icatfm/chunklist.m3u8
